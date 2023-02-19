@@ -1,8 +1,9 @@
 {
   "expo": {
-    "name": "app",
-    "slug": "app",
+    "name": "GoFit",
+    "slug": "gofit",
     "version": "1.0.0",
+    "owner": "go-fit",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
